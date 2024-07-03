@@ -1,0 +1,14 @@
+D:\specialization\7.c#\Workspace\birthDate\bin\Debug\net8.0\birthDate.exe
+D:\specialization\7.c#\Workspace\birthDate\bin\Debug\net8.0\birthDate.deps.json
+D:\specialization\7.c#\Workspace\birthDate\bin\Debug\net8.0\birthDate.runtimeconfig.json
+D:\specialization\7.c#\Workspace\birthDate\bin\Debug\net8.0\birthDate.dll
+D:\specialization\7.c#\Workspace\birthDate\bin\Debug\net8.0\birthDate.pdb
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.GeneratedMSBuildEditorConfig.editorconfig
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.AssemblyInfoInputs.cache
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.AssemblyInfo.cs
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.csproj.CoreCompileInputs.cache
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.dll
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\refint\birthDate.dll
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.pdb
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.genruntimeconfig.cache
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\ref\birthDate.dll
