@@ -12,3 +12,4 @@ D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\refint\birthDate.dll
 D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.pdb
 D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.genruntimeconfig.cache
 D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\ref\birthDate.dll
+D:\specialization\7.c#\Workspace\birthDate\obj\Debug\net8.0\birthDate.sourcelink.json
