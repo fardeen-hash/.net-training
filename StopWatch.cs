@@ -1,11 +1,8 @@
 using System;
 using System.Threading;
 using System.Diagnostics;
- 
-
     public class Stopwatcher
     {
-        
         public Stopwatch clock{get; set;}
         
         TimeSpan ts ;
@@ -13,10 +10,7 @@ using System.Diagnostics;
              clock= new Stopwatch();
         }
         public  void Start(){
-            
             clock.Start();
-            
-            
         }
 
          public  void Stop( ){
