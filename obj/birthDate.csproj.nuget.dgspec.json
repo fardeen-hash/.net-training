@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj": {}
+    "D:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj": {}
   },
   "projects": {
-    "d:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj": {
+    "D:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj",
+        "projectUniqueName": "D:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj",
         "projectName": "birthDate",
-        "projectPath": "d:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj",
+        "projectPath": "D:\\specialization\\7.c#\\Workspace\\birthDate\\birthDate.csproj",
         "packagesPath": "C:\\Users\\muhammed.fardeen\\.nuget\\packages\\",
-        "outputPath": "d:\\specialization\\7.c#\\Workspace\\birthDate\\obj\\",
+        "outputPath": "D:\\specialization\\7.c#\\Workspace\\birthDate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhammed.fardeen\\AppData\\Roaming\\NuGet\\NuGet.Config",
