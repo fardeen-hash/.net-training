@@ -22,7 +22,7 @@ public class Customer{
      public List<Order> OrderList = new List<Order>();
      
 
-      public Customer(string id,string Name, List<Order> OrderList )
+      public Customer(string id,string Name )
      {
        this._id= id;
        this._name= Name;
